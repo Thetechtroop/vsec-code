@@ -2,6 +2,6 @@
 ##welcome
 'style:Strikethrough'</br>
 ~~VESEC~~<hr>
-*GOOD MORNING*
-  *HAVE A NICE DAY
+*GOOD MORNING*</br>
+  **HAVE A NICE DAY**
 <hr>
